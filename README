@@ -1,0 +1,13 @@
+##
+# frag attack exploit 
+# author: brooke.syy 2014-4-21
+
+
+usage:
+1 set iptables to avoid to send rst
+  #./setfirewall.sh
+
+2 attack
+  #./fragatt 10.68.46.112 80
+
+
